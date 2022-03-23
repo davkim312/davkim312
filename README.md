@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davkim312
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning to become a Full-stack web and app developer by taking bootcamp at Nucamp. 
+- 🌱 I’m currently learning to become a Full-stack web and app developer by taking bootcamp at Nucamp (https://www.nucamp.co/).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? You can email me at dkim8890@gmail.com 
 
